@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u+x README.md.run
+path = 'readlink -f "${BASH_SOURCE: -$0}"'
